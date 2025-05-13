@@ -18,3 +18,12 @@ L’objectif principal est de suivre et d’évaluer les performances commercial
     📈 Compréhension des tendances hebdomadaires et mensuelles
 
     🏆 Identification des produits générateurs de chiffre d'affaires
+
+## 🧮 KPI's définis
+
+| KPI                   | Objectif                                              |
+| --------------------- | ----------------------------------------------------- |
+| **YTD Sales**         | Suivre les ventes cumulées depuis le début de l'année |
+| **QTD Sales**         | Évaluer les ventes sur le trimestre en cours          |
+| **YTD Products Sold** | Analyser le volume de produits vendus cette année     |
+| **YTD Reviews**       | Mesurer les retours clients via les avis produits     |
