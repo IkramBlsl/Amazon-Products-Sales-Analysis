@@ -41,13 +41,13 @@ L’objectif principal est de suivre et d’évaluer les performances commercial
 
 ## 📁 Structure des données
 
-###🔹 Table principale : Amazon_Data
+### 🔹 Table principale : Amazon_Data
 
     Order Date, Price(Dollar), Product Category
 
     Product Description, Shipment, Number of Reviews
 
-###🔹 Table de dates personnalisée : Date Table
+### 🔹 Table de dates personnalisée : Date Table
 
     Ajoutée via DAX :
     Date Table = CALENDAR(MIN(Amazon_Data[Order Date]), MAX(Amazon_Data[Order Date]))
