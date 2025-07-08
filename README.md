@@ -67,3 +67,9 @@ QTD Sales = TOTALQTD(SUM(Amazon_Data[Price(Dollar)]), 'Date Table'[Date])
 YTD Products Sold = TOTALYTD(COUNT(Amazon_Data[Product Category]), 'Date Table'[Date])
 
 YTD Reviews = TOTALYTD(SUM(Amazon_Data[Number of reviews]), 'Date Table'[Date])
+
+
+## Overview du Dashboard
+
+![image](https://github.com/user-attachments/assets/2a40d119-82dc-4874-a676-b8fb874e68b5)
+
